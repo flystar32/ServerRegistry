@@ -99,7 +99,7 @@ zookeeper设计的原则就是遵循了CAP中的CP，包括一致性和分区容
 ## 后记
 这是我在16年5月份写的一个小项目，也是我自己第一次独立负责一个基础组件的开发，这个组件属于我和mentor一起开发的API gateway的一部分。非常感谢mentor能给我这样一个机会，并不断地提供辅导。在这个过程中，感觉编程就是不断地和各种异常情况在做斗争。
 
-##参考文档
+## 参考文档
 [Open-Source Service Discovery](http://jasonwilder.com/blog/2014/02/04/service-discovery-in-the-cloud)
 [Eureka! Why You Shouldn’t Use ZooKeeper for Service Discovery](https://tech.knewton.com/blog/2014/12/eureka-shouldnt-use-zookeeper-service-discovery/)
 [How ZooKeeper Handles Failure Scenarios](https://wiki.apache.org/hadoop/ZooKeeper/FailureScenarios)
