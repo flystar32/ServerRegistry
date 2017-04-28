@@ -1,0 +1,6 @@
+zkConnectPath: "10.94.105.81:2181,10.94.105.81:2182,10.94.105.81:2183"
+namespace: xiaojing/server-registry
+sessionTimeoutMs: 1000
+connectTimeoutMs: 1000
+baseSleepTimeMs: 1000
+maxRetries: 3
